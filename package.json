@@ -1,0 +1,21 @@
+{
+  "name": "801-simple-calculator",
+  "version": "1.0.0",
+  "description": "A Simple Calculator by using Typescript , Node.js , Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Affan",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.28"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
